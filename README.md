@@ -1,15 +1,54 @@
-Key Features Affecting House Prices in the US (Last 20 Years)
-This project explores the primary factors influencing housing prices in the United States over the past two decades. Using data analysis and machine learning, we identify and evaluate key economic, demographic, and market-related features that have impacted housing prices. The insights are derived from comprehensive datasets, including economic indicators, population trends, and real estate market statistics.
+Key Features Affecting Housing Prices in the US (Last 20 Years)
 
-Key Features:
-Median Income: A strong determinant of housing affordability and demand.
-Unemployment Rate: Economic stability and job availability directly affect buying power.
-Population Growth: Increases in population drive demand for housing.
-Interest Rates (e.g., FEDFUNDS): Mortgage rates significantly influence housing affordability.
-Number of Households: Changes in household formation impact housing supply and demand.
-Construction Costs: Costs of materials and labor affect housing supply and pricing.
-Consumer Price Index (CPI): Measures inflation's impact on the overall cost of living and housing affordability.
-Government Subsidies: Influence affordability through financial support programs.
-Demographics (e.g., Age Groups): The proportion of working-age and retired populations affects housing demand patterns.
-Objective:
-The goal is to analyze historical data to understand trends and develop predictive models to forecast housing prices based on these key features.
+
+
+
+This project focuses on identifying and analyzing the primary factors that have influenced housing prices in the United States 
+over the past two decades. The analysis integrates data from economic, demographic, and real estate sectors to uncove
+trends and their impact on house prices.
+
+Key Features
+Median Income: 
+Reflects housing affordability and demand across income groups.
+
+Unemployment Rate: 
+Economic stability directly impacts purchasing power and housing demand.
+
+
+Population Growth:
+Drives increased demand for housing in high-growth areas.
+
+Interest Rates (e.g., FEDFUNDS): 
+Lower rates improve affordability, while higher rates reduce it.
+
+
+Number of Households:
+Changes in household formation directly influence housing supply and demand.
+
+
+Construction Costs:
+Rising material and labor costs contribute to higher housing prices.
+
+
+Consumer Price Index (CPI):
+Tracks inflation’s effect on the cost of living, including housing.
+
+
+Government Subsidies:
+Programs that make housing more affordable for specific groups.
+
+
+
+Demographics:
+Proportions of working-age and retired populations affect housing demand.
+
+
+
+Employment Rate:
+Higher employment correlates with stronger housing markets.
+
+
+Objective
+
+
+To perform a data-driven analysis to understand housing price trends and forecast future changes based on these influential features.
